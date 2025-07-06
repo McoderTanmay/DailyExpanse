@@ -36,7 +36,7 @@ export default function Dashboard() {
     try {
       setLoading(true)
       setError(null)
-      const response = await fetch("http://localhost:5000/api/dashboard", {
+      const response = await fetch("https://daily-expanse-backend.vercel.app/api/dashboard", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
