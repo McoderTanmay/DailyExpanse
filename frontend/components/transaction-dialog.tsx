@@ -61,7 +61,7 @@ export function TransactionDialog({ open, onOpenChange, onTransactionAdded }: Tr
     try {
       setLoading(true);
 
-      const response = await fetch("https://daily-expanse-backend.vercel.app/api/finance", {
+      const response = await fetch("https://dailyexpanse.onrender.com/api/finance", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

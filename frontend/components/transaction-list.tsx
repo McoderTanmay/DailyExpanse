@@ -61,7 +61,7 @@ export function TransactionList({ onTransactionChange }: TransactionListProps) {
         queryParams.append("category", categoryFilter)
       }
 
-      const response = await fetch(`https://daily-expanse-backend.vercel.app/api/finance?${queryParams.toString()}`)
+      const response = await fetch(`https://dailyexpanse.onrender.com/api/finance?${queryParams.toString()}`)
       const data = await response.json()
 
       if (response.ok && data.success && data.data) {
@@ -82,7 +82,7 @@ export function TransactionList({ onTransactionChange }: TransactionListProps) {
 
   const handleDelete = async (id: string) => {
     try {
-      const response = await fetch(`https://daily-expanse-backend.vercel.app/api/finance/${id}`, {
+      const response = await fetch(`https://dailyexpanse.onrender.com/api/finance/${id}`, {
         method: "DELETE",
       })
 
@@ -101,7 +101,7 @@ export function TransactionList({ onTransactionChange }: TransactionListProps) {
 
   const handleUpdate = async () => {
     if (!editTransaction) return
-    const response = await fetch(`https://daily-expanse-backend.vercel.app/api/finance/${editTransaction._id}`, {
+    const response = await fetch(`https://dailyexpanse.onrender.com/api/finance/${editTransaction._id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
