@@ -9,7 +9,7 @@ config();
 const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://daily-expanse-frontend.vercel.app/"
+  "https://daily-expanse-frontend.vercel.app"
 ];
 
 app.use(cors({
