@@ -1,0 +1,212 @@
+[
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a01" },
+    "date": { "$date": "2025-07-01T10:15:00Z" },
+    "amount": 250,
+    "category": "Food",
+    "description": "Lunch at restaurant"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a02" },
+    "date": { "$date": "2025-07-02T08:00:00Z" },
+    "amount": 50,
+    "category": "Transport",
+    "description": "Bus fare"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a03" },
+    "date": { "$date": "2025-07-03T18:30:00Z" },
+    "amount": 500,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a04" },
+    "date": { "$date": "2025-07-04T12:45:00Z" },
+    "amount": 120,
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a05" },
+    "date": { "$date": "2025-07-05T14:10:00Z" },
+    "amount": 300,
+    "category": "Food",
+    "description": "Grocery shopping"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a06" },
+    "date": { "$date": "2025-07-06T09:20:00Z" },
+    "amount": 80,
+    "category": "Transport",
+    "description": "Auto fare"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a07" },
+    "date": { "$date": "2025-07-07T11:30:00Z" },
+    "amount": 400,
+    "category": "Other",
+    "description": "Stationery purchase"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a08" },
+    "date": { "$date": "2025-07-08T15:00:00Z" },
+    "amount": 150,
+    "category": "Food",
+    "description": "Snacks"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a09" },
+    "date": { "$date": "2025-07-09T10:00:00Z" },
+    "amount": 220,
+    "category": "Utilities",
+    "description": "Internet bill"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a0a" },
+    "date": { "$date": "2025-07-10T17:00:00Z" },
+    "amount": 600,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a0b" },
+    "date": { "$date": "2025-07-11T13:30:00Z" },
+    "amount": 90,
+    "category": "Transport",
+    "description": "Taxi fare"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a0c" },
+    "date": { "$date": "2025-07-12T16:15:00Z" },
+    "amount": 180,
+    "category": "Food",
+    "description": "Dinner at cafe"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a0d" },
+    "date": { "$date": "2025-07-13T08:50:00Z" },
+    "amount": 70,
+    "category": "Transport",
+    "description": "Train ticket"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a0e" },
+    "date": { "$date": "2025-07-14T10:10:00Z" },
+    "amount": 310,
+    "category": "Utilities",
+    "description": "Water bill"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a0f" },
+    "date": { "$date": "2025-07-15T11:00:00Z" },
+    "amount": 275,
+    "category": "Other",
+    "description": "Medical expenses"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a10" },
+    "date": { "$date": "2025-06-01T10:15:00Z" },
+    "amount": 230,
+    "category": "Food",
+    "description": "Lunch at food court"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a11" },
+    "date": { "$date": "2025-06-02T09:00:00Z" },
+    "amount": 55,
+    "category": "Transport",
+    "description": "Bus fare"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a12" },
+    "date": { "$date": "2025-06-03T19:00:00Z" },
+    "amount": 420,
+    "category": "Entertainment",
+    "description": "Stand-up comedy show"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a13" },
+    "date": { "$date": "2025-06-04T14:30:00Z" },
+    "amount": 115,
+    "category": "Utilities",
+    "description": "Phone recharge"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a14" },
+    "date": { "$date": "2025-06-05T13:00:00Z" },
+    "amount": 290,
+    "category": "Food",
+    "description": "Grocery and snacks"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a15" },
+    "date": { "$date": "2025-06-06T11:20:00Z" },
+    "amount": 85,
+    "category": "Transport",
+    "description": "Cab to office"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a16" },
+    "date": { "$date": "2025-06-07T10:40:00Z" },
+    "amount": 320,
+    "category": "Other",
+    "description": "Home cleaning supplies"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a17" },
+    "date": { "$date": "2025-06-08T15:45:00Z" },
+    "amount": 160,
+    "category": "Food",
+    "description": "Cafeteria"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a18" },
+    "date": { "$date": "2025-06-09T17:10:00Z" },
+    "amount": 210,
+    "category": "Utilities",
+    "description": "Gas bill"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a19" },
+    "date": { "$date": "2025-06-10T18:00:00Z" },
+    "amount": 570,
+    "category": "Entertainment",
+    "description": "Live music night"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a1a" },
+    "date": { "$date": "2025-06-11T12:50:00Z" },
+    "amount": 95,
+    "category": "Transport",
+    "description": "Taxi"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a1b" },
+    "date": { "$date": "2025-06-12T16:30:00Z" },
+    "amount": 170,
+    "category": "Food",
+    "description": "Fast food"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a1c" },
+    "date": { "$date": "2025-06-13T09:30:00Z" },
+    "amount": 65,
+    "category": "Transport",
+    "description": "Rickshaw"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a1d" },
+    "date": { "$date": "2025-06-14T11:40:00Z" },
+    "amount": 295,
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "_id": { "$oid": "64ef1a1a1a1a1a1a1a1a1a1e" },
+    "date": { "$date": "2025-06-15T14:20:00Z" },
+    "amount": 260,
+    "category": "Other",
+    "description": "Online course subscription"
+  }
+]
